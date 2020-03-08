@@ -12,7 +12,7 @@ reasons.
 screenshots
 -----------
 
-![dialog](Screenshot_1583696189.png)
+![dialog](screenshots/Screenshot_1583696189.png)
 
 ![home](screenshots/Screenshot_1583696200.png)
 
