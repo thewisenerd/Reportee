@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <CheckedTextView
+        android:id="@+id/perm_call_state_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:checkMark="@android:drawable/presence_invisible"
+        android:gravity="center"
+        android:text="Read Call State" />
+
+    <CheckedTextView
+        android:id="@+id/perm_call_log_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:checkMark="@android:drawable/presence_invisible"
+        android:gravity="center"
+        android:text="Read Call Log" />
+
+    <CheckedTextView
+        android:id="@+id/perm_contacts_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:checkMark="@android:drawable/presence_invisible"
+        android:gravity="center"
+        android:text="Read Contacts" />
+
+    <CheckedTextView
+        android:id="@+id/perm_system_overlay_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:checkMark="@android:drawable/presence_invisible"
+        android:gravity="center"
+        android:text="System Overlay" />
+
+    <CheckedTextView
+        android:id="@+id/perm_external_storage_indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:checkMark="@android:drawable/presence_invisible"
+        android:gravity="center"
+        android:text="External Storage" />
+
+</LinearLayout>
