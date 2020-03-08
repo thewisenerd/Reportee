@@ -12,8 +12,9 @@ reasons.
 screenshots
 -----------
 
-![dialog](screenshots/Screenshot_1583696200.png)
+![dialog](Screenshot_1583696189.png)
 
+![home](screenshots/Screenshot_1583696200.png)
 
 credits
 -------
